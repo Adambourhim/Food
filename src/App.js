@@ -26,7 +26,7 @@ const corona = async () => {
 
   return (
     <div className="App">
-      
+      <h1>hello</h1>
       
     </div>
   );
